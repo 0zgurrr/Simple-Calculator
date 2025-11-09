@@ -1,1 +1,1 @@
-# Simple-Calculator
+A simple python program to calculate numbers

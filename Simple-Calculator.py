@@ -20,7 +20,7 @@ def modulus(a, b):
     return a % b
 
 def calculator():
-    print("=== Professional Python Calculator ===")
+    print("===Python Calculator ===")
     print("Operations:")
     print("1. Addition (+)")
     print("2. Subtraction (-)")
@@ -65,4 +65,5 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
 
